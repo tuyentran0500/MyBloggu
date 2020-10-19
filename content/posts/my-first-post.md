@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2020-10-19T21:31:22+09:00
-draft: true
+draft: false
 Katex: true
 markup: "mmark"
 ---
