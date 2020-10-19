@@ -22,3 +22,4 @@ hugo server -D
 ```  
 Deploy to server:  
 - https://flaviocopes.com/start-blog-with-hugo/  
+- https://github.com/theNewDynamic/gohugo-theme-ananke/issues/306  
