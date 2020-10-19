@@ -11,7 +11,9 @@ The following
 
 $$\sum_{i=5}^{i = 10}$$  
 
-$$\infty$$
+$$\infty$$  
+
+I should try more: $$x_1, x_2, x_n$$
 
 Is an integral
 
