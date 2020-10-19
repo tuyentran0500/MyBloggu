@@ -11,6 +11,8 @@ The following
 
 $$\sum_{i=5}^{i = 10}$$  
 
+$$\infty$$
+
 Is an integral
 
 
