@@ -2,7 +2,7 @@ baseURL = "https://tuyentran21.netlify.app/"
 languageCode = "en-us"
 title = "Tuyen's Blog"
 theme = "ananke" 
-
+contentDir = "content"  
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
