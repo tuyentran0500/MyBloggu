@@ -2,7 +2,6 @@ baseURL = "https://tuyentran21.netlify.app"
 languageCode = "en-us"
 title = "My blog"
 theme = "ananke"  
-contentDir = "content"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"

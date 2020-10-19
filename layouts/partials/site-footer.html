@@ -6,3 +6,6 @@
     <div>{{ partial "social-follow.html" . }}</div>
   </div>
 </footer>
+</body>
+{{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
+</html>
