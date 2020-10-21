@@ -19,7 +19,7 @@ I should try more: $$x_1, x_2, x_n$$
 
 Something like this one: $$\theta$$  
 
-Or even like this: $$C_{k}^{n} + 2^k$$  
+Or even like this: $C_{k}^{n} + 2^k$  
 
 Is an integral
 
