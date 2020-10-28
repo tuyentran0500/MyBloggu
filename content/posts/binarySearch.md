@@ -53,7 +53,7 @@ Một vài bài tập tương tự:
 **Nhận xét:** Trong các bài toán tìm kiếm nhị phân, bạn sẽ rất hay thấy pattern: `Tìm giá trị nhỏ nhất trong các giá trị lớn nhất`, hoăc `giá trị lớn nhất trong các giá trị nhỏ nhất`... Trong những trường hợp thế này, đa số bạn sẽ kết hợp chặt nhị phân kết quả và sử dụng các thuật toán phụ để kiếm tra kết quả bài toán(Tham lam, quy hoạch động, etc...)  
 
 **Lời giải**  
-Thay vì for từng hình chữ nhật được và tìm giá trị nhỏ nhất của từng bảng k x k bằng các thuật toán tịnh tiến(two pointers), hoặc các cấu trúc dữ liệu phức tạp, bạn hoàn toàn có thể chặt nhị phân kết quả và đưa ra 1 giải thuật với độ phức tạp tương đối ổn.  
+Thay vì for từng hình chữ nhật được và tìm giá trị nhỏ nhất của từng bảng k x k bằng các thuật toán tịnh tiến(two pointers), hoặc các cấu trúc dữ liệu phức tạp, bạn hoàn toàn có thể chặt nhị phân kết quả  vàđưa ra 1 giải thuật với độ phức tạp tương đối ổn.  
 
 Gọi hàm `bool f(v)`, với `f(v) = 1` khi và chỉ khi tồn tại 1 bảng k x k mà ở đó tất cả giá trị trong bảng đều lớn hơn hoặc bằng v.  
 Bạn có thể thấy rằng hàm này có giá trị giảm dần, tức là nó có **tính đơn điệu**.    
