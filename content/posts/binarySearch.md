@@ -159,8 +159,15 @@ int main(){
 	}
 }
 ```  
-Bài toán tương tự:  
+Đến đây mình xin được phép kết thúc bài viết về tìm kiếm nhị phân của mình, hi vọng bài viết sẽ có tác dụng cho việc học CS của các bạn.  
+Một số bài tập khác:   
 - [Levko and Array](https://codeforces.com/contest/360/problem/B)  
+- [LIS](https://vn.spoj.com/problems/LIS/)  
+- [Make It Increasing](https://codeforces.com/contest/1437/problem/E)  
+- [List of Integer](https://codeforces.com/problemset/problem/920/G)  
+- [Finding the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem)  
+
+
 
    
 
