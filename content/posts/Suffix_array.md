@@ -1,7 +1,7 @@
 ---
 title: "Suffix array - Mảng hậu tố"
 date: 2021-01-24T10:45:25+09:00
-draft: true
+draft: false
 ---  
 # Giới thiệu  
 Mảng hậu tố(suffix array) là 1 kĩ thuật xử lý xâu rất mạnh được áp dụng trong nhiều trường hợp. Trong bài viết này mình sẽ miêu tả về cách hoạt động của Suffix Array và 1 vài ứng dụng của nó.  
