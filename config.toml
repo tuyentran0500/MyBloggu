@@ -26,7 +26,7 @@ enableRobotsTXT = true
 [params]
   author = "Trần Bá Tuyên"
   avatar = "https://avatars3.githubusercontent.com/u/49382248?s=400&u=4a86465b75672d4ed670aa83aa14726e241cd5c5&v=4"
-  description = "The last theme you'll ever need. Maybe."
+  description = "Just a boy tries to do grown-up stuffs"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/batman.jpg"
